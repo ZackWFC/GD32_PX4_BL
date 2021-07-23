@@ -1,0 +1,13 @@
+.DS_Store
+.cproject
+.project
+.settings
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+Bootloader.zip
+Bootloader.sublime-workspace
+.gdbinit
+build/
